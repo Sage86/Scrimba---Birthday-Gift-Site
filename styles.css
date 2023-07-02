@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  font-family: 'Caveat', cursive;
+  color: rgb(251, 251, 142);
+  background-color: #307684;
+  margin-top: 100px;
+}
+
+.h1 {
+  background: fixed;
+}
+
+.gift-section {
+  margin-top: 50px;
+}
+
+.gift-title {
+  margin-bottom: 10px;
+}
+
+#header-image {
+  width: 400px;
+  height: 500px;
+  border-radius: 50%;
+}
+
+
+.gift-img {
+  margin: 20px auto;
+  max-width: 600px;
+  height: 500px;
+  border: 6px solid rgb(159, 129, 129);
+  border-radius: 10px;
+  background-image: url("images.html/present.jpeg");
+  background-size: cover;
+}
+
+#gift-img-swagger:hover {
+  background-image: url("https://media.giphy.com/media/3ohc142474TUT6Tazm/giphy-downsized.gif");
+}
+
+#gift-img-interested:hover {
+  background-image: url("https://media.giphy.com/media/cO7pgxOH2HnOuaR084/giphy-downsized.gif");
+}
+
+#gift-img-young:hover {
+  background-image: url("https://media.giphy.com/media/qOf68UfDEU41i/giphy.gif");
+}
+
+#gift-img-prime:hover {
+  background-image: url("https://media.giphy.com/media/toBi2rizjV8CswqIXG/giphy-downsized.gif");
+}
+
+#gift-img-more:hover {
+  background-image: url("https://media.giphy.com/media/LOQNkELyry3TxPPDMf/giphy-downsized.gif");
+}
+
+#footer {
+  font-style: italic;
+  width: 400px;
+  margin: 40px auto 20px;
+}
